@@ -24,8 +24,8 @@ Mention the datatypes from the data.
 ## Step5
 Count the values from the data.
 ```
-Developed By : Shree Ram R
-reference number: 212222040154
+Developed By : LAKSHMIRPIYA D
+reference number: 212222040085
 ```
 ## Superstore.csv
 ```
