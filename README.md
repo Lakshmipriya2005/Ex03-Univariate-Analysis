@@ -1,4 +1,7 @@
 # Ex03-Univariate-Analysis
+
+## DATE:23/09/2023
+
 ## Aim
 To read the given data and perform the univariate analysis with different types of plots.
 
@@ -21,8 +24,8 @@ Mention the datatypes from the data.
 ## Step5
 Count the values from the data.
 ```
-Developed By : Lakshmipriya D
-reference number: 212222040085
+Developed By : Shree Ram R
+reference number: 212222040154
 ```
 ## Superstore.csv
 ```
